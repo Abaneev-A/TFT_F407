@@ -32,8 +32,12 @@
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 /* USER CODE END PD */
+<<<<<<< HEAD
 uint8_t data = 0;
 uint8_t data2 = 0;
+=======
+
+>>>>>>> parent of 221ad2d (data)
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 
