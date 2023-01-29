@@ -33,6 +33,7 @@
 /* USER CODE BEGIN PD */
 /* USER CODE END PD */
 uint8_t data = 0;
+uint8_t data2 = 0;
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
 
